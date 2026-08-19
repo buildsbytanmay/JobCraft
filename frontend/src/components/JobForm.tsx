@@ -1,5 +1,5 @@
 import React, { useState, KeyboardEvent } from 'react';
-import { Sparkles, Loader2, RotateCcw, X, Plus } from 'lucide-react';
+import { Sparkles, Loader2, RotateCcw, X } from 'lucide-react';
 import { JobFormData } from '../types.js';
 
 interface JobFormProps {
